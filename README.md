@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+just another repository of a lil ckscker
+hg
